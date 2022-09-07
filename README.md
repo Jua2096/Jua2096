@@ -1,5 +1,4 @@
- Olá! Eu sou a Ana Julia S. Fernandes
-- 👩‍💻 Atualmente cursando Tec. em Desenvolvimentos de Sistemas 
+ Olá! Eu sou a Ana Julia S. Fernandes 
 
 <div align="center">
   <a href="https://github.com/Jua2096">
